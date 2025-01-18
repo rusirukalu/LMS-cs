@@ -64,6 +64,7 @@
             btnViewBooks.TabIndex = 1;
             btnViewBooks.Text = "View Available Books";
             btnViewBooks.UseVisualStyleBackColor = true;
+            btnViewBooks.Click += btnViewBooks_Click;
             // 
             // dgvAvailableBooks
             // 
@@ -113,6 +114,7 @@
             btnBorrow.TabIndex = 1;
             btnBorrow.Text = "Borrow Book";
             btnBorrow.UseVisualStyleBackColor = true;
+            btnBorrow.Click += btnBorrow_Click;
             // 
             // grpReturnBook
             // 
@@ -150,6 +152,7 @@
             btnReturn.TabIndex = 1;
             btnReturn.Text = "Return Book";
             btnReturn.UseVisualStyleBackColor = true;
+            btnReturn.Click += btnReturn_Click;
             // 
             // MemberDashboard
             // 
