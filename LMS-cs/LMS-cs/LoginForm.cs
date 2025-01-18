@@ -15,7 +15,7 @@ namespace LMS_cs
     public partial class LoginForm : Form
     {
         private SqlConnection conn;
-        private string connectionString = "Server=localhost;Database=LibraryDB;Trusted_Connection=True;";
+        private string connectionString = "Data Source=192.168.1.84;Initial Catalog=LibraryDB;Persist Security Info=True;User ID=sa;Password=kithEm-2hapto-wakdav;Encrypt=False;Trust Server Certificate=True;";
 
         public LoginForm()
         {
