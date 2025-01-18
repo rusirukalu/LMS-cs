@@ -4,3 +4,6 @@ C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS-c
 C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS-cs.AssemblyInfoInputs.cache
 C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS-cs.AssemblyInfo.cs
 C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS-cs.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS_cs.AdminDashboard.resources
+C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS_cs.MemberDashboard.resources
+C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS-cs.sourcelink.json
