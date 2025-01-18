@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|c:\\mac\\home\\documents\\github\\lms-cs\\lms-cs\\lms-cs\\memberdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|solutionrelative:lms-cs\\memberdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|c:\\mac\\home\\documents\\github\\lms-cs\\lms-cs\\lms-cs\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|solutionrelative:lms-cs\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|c:\\mac\\home\\documents\\github\\lms-cs\\lms-cs\\lms-cs\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|solutionrelative:lms-cs\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|c:\\mac\\home\\documents\\github\\lms-cs\\lms-cs\\lms-cs\\memberdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|solutionrelative:lms-cs\\memberdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|c:\\mac\\home\\documents\\github\\lms-cs\\lms-cs\\lms-cs\\memberdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|solutionrelative:lms-cs\\memberdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|c:\\mac\\home\\documents\\github\\lms-cs\\lms-cs\\lms-cs\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|solutionrelative:lms-cs\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|c:\\mac\\home\\documents\\github\\lms-cs\\lms-cs\\lms-cs\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|solutionrelative:lms-cs\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{530BAEEB-9340-4072-B062-ED40CFE8338D}|LMS-cs\\LMS-cs.csproj|c:\\mac\\home\\documents\\github\\lms-cs\\lms-cs\\lms-cs\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,45 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MemberDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\MemberDashboard.cs",
-              "RelativeDocumentMoniker": "LMS-cs\\MemberDashboard.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\MemberDashboard.cs [Design]*",
-              "RelativeToolTip": "LMS-cs\\MemberDashboard.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T04:42:22.945Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminDashboard.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\AdminDashboard.cs",
-              "RelativeDocumentMoniker": "LMS-cs\\AdminDashboard.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\AdminDashboard.cs",
-              "RelativeToolTip": "LMS-cs\\AdminDashboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T03:47:23.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\AdminDashboard.cs",
-              "RelativeDocumentMoniker": "LMS-cs\\AdminDashboard.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\AdminDashboard.cs [Design]",
-              "RelativeToolTip": "LMS-cs\\AdminDashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T03:16:28.988Z",
-              "EditorCaption": " [Design]"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -77,7 +44,7 @@
               "RelativeDocumentMoniker": "LMS-cs\\LoginForm.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\LoginForm.cs",
               "RelativeToolTip": "LMS-cs\\LoginForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T18:06:01.271Z",
               "EditorCaption": ""
@@ -85,6 +52,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MemberDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\MemberDashboard.cs",
+              "RelativeDocumentMoniker": "LMS-cs\\MemberDashboard.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\MemberDashboard.cs [Design]",
+              "RelativeToolTip": "LMS-cs\\MemberDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T04:42:22.945Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberDashboard.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\MemberDashboard.cs",
+              "RelativeDocumentMoniker": "LMS-cs\\MemberDashboard.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\MemberDashboard.cs",
+              "RelativeToolTip": "LMS-cs\\MemberDashboard.cs",
+              "ViewState": "AgIAAA4AAAAAgJmZmZnJvxYAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T05:21:15.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "LMS-cs\\AdminDashboard.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\AdminDashboard.cs",
+              "RelativeToolTip": "LMS-cs\\AdminDashboard.cs",
+              "ViewState": "AgIAAAMAAAAAZWZmZiYgwBYAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:47:23.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\LoginForm.cs",
               "RelativeDocumentMoniker": "LMS-cs\\LoginForm.cs",
@@ -92,6 +97,18 @@
               "RelativeToolTip": "LMS-cs\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T18:05:56.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "LMS-cs\\AdminDashboard.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\LMS-cs\\LMS-cs\\LMS-cs\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "LMS-cs\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:16:28.988Z",
               "EditorCaption": " [Design]"
             }
           ]

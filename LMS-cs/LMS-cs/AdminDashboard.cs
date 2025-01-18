@@ -20,7 +20,7 @@ namespace LMS_cs
         {
             InitializeComponent();
             adminId = userId;
-            conn = new SqlConnection("Data Source=192.168.1.84;Initial Catalog=LibraryDB;Persist Security Info=True;User ID=sa;Password=kithEm-2hapto-wakdav;Encrypt=False;Trust Server Certificate=True;");
+            conn = new SqlConnection("Data Source=192.168.1.84;Initial Catalog=LibraryDB;Persist Security Info=True;User ID=sa;Password=kithEm-2hapto-wakdav;Encrypt=False;");
         }
 
         private void AdminDashboard_Load(object sender, EventArgs e)
