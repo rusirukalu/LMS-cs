@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace LMS_cs
 {
@@ -15,6 +16,37 @@ namespace LMS_cs
         public AdminDashboard()
         {
             InitializeComponent();
+        }
+
+        private void AdminDashboard_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAddBook_Click(object sender, EventArgs e)
+        {
+            AddBook(txtTitle.Text, txtAuthor.Text, txtISBN.Text,
+            Convert.ToInt32(txtCopies.Text));
+        }
+
+        private void btnAddMember_Click(object sender, EventArgs e)
+        {
+            AddMember(txtMemberName.Text, txtEmail.Text, txtPhone.Text);
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLoadRecords_Click(object sender, EventArgs e)
+        {
+            LoadBorrowRecords();
+        }
+
+        private void dgvBorrowRecords_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
