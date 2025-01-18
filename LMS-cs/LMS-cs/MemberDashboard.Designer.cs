@@ -39,6 +39,7 @@
             txtBorrowRecordId = new TextBox();
             label2 = new Label();
             btnReturn = new Button();
+            btnLogout = new Button();
             grpAvailableBooks.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvAvailableBooks).BeginInit();
             grpBorrowBook.SuspendLayout();
@@ -154,11 +155,22 @@
             btnReturn.UseVisualStyleBackColor = true;
             btnReturn.Click += btnReturn_Click;
             // 
+            // btnLogout
+            // 
+            btnLogout.Location = new Point(1352, 480);
+            btnLogout.Name = "btnLogout";
+            btnLogout.Size = new Size(201, 130);
+            btnLogout.TabIndex = 15;
+            btnLogout.Text = "Logout";
+            btnLogout.UseVisualStyleBackColor = true;
+            btnLogout.Click += btnLogout_Click;
+            // 
             // MemberDashboard
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1602, 1033);
+            Controls.Add(btnLogout);
             Controls.Add(grpReturnBook);
             Controls.Add(grpBorrowBook);
             Controls.Add(grpAvailableBooks);
@@ -188,5 +200,6 @@
         private TextBox txtBorrowRecordId;
         private Label label2;
         private Button btnReturn;
+        private Button btnLogout;
     }
 }

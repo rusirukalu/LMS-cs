@@ -46,9 +46,10 @@
             label8 = new Label();
             dgvBorrowRecords = new DataGridView();
             tableLayoutPanel1 = new TableLayoutPanel();
-            btnAddBook = new Button();
-            btnLoadRecords = new Button();
             btnAddMember = new Button();
+            btnLoadRecords = new Button();
+            btnAddBook = new Button();
+            btnLogout = new Button();
             grpBookManagement.SuspendLayout();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvBorrowRecords).BeginInit();
@@ -235,16 +236,16 @@
             tableLayoutPanel1.Size = new Size(1579, 1252);
             tableLayoutPanel1.TabIndex = 13;
             // 
-            // btnAddBook
+            // btnAddMember
             // 
-            btnAddBook.Anchor = AnchorStyles.None;
-            btnAddBook.Location = new Point(1138, 154);
-            btnAddBook.Name = "btnAddBook";
-            btnAddBook.Size = new Size(273, 71);
-            btnAddBook.TabIndex = 10;
-            btnAddBook.Text = "Add Book";
-            btnAddBook.UseVisualStyleBackColor = true;
-            btnAddBook.Click += btnAddBook_Click;
+            btnAddMember.Anchor = AnchorStyles.None;
+            btnAddMember.Location = new Point(1138, 516);
+            btnAddMember.Name = "btnAddMember";
+            btnAddMember.Size = new Size(273, 71);
+            btnAddMember.TabIndex = 11;
+            btnAddMember.Text = "Add Member";
+            btnAddMember.UseVisualStyleBackColor = true;
+            btnAddMember.Click += btnAddMember_Click;
             // 
             // btnLoadRecords
             // 
@@ -257,22 +258,33 @@
             btnLoadRecords.UseVisualStyleBackColor = true;
             btnLoadRecords.Click += btnLoadRecords_Click;
             // 
-            // btnAddMember
+            // btnAddBook
             // 
-            btnAddMember.Anchor = AnchorStyles.None;
-            btnAddMember.Location = new Point(1138, 516);
-            btnAddMember.Name = "btnAddMember";
-            btnAddMember.Size = new Size(273, 71);
-            btnAddMember.TabIndex = 11;
-            btnAddMember.Text = "Add Member";
-            btnAddMember.UseVisualStyleBackColor = true;
-            btnAddMember.Click += btnAddMember_Click;
+            btnAddBook.Anchor = AnchorStyles.None;
+            btnAddBook.Location = new Point(1138, 154);
+            btnAddBook.Name = "btnAddBook";
+            btnAddBook.Size = new Size(273, 71);
+            btnAddBook.TabIndex = 10;
+            btnAddBook.Text = "Add Book";
+            btnAddBook.UseVisualStyleBackColor = true;
+            btnAddBook.Click += btnAddBook_Click;
+            // 
+            // btnLogout
+            // 
+            btnLogout.Location = new Point(1615, 237);
+            btnLogout.Name = "btnLogout";
+            btnLogout.Size = new Size(58, 440);
+            btnLogout.TabIndex = 14;
+            btnLogout.Text = "Logout";
+            btnLogout.UseVisualStyleBackColor = true;
+            btnLogout.Click += btnLogout_Click;
             // 
             // AdminDashboard
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1675, 1311);
+            Controls.Add(btnLogout);
             Controls.Add(grpBookManagement);
             Controls.Add(tableLayoutPanel1);
             Name = "AdminDashboard";
@@ -311,5 +323,6 @@
         private Button btnAddBook;
         private Button btnLoadRecords;
         private Button btnAddMember;
+        private Button btnLogout;
     }
 }

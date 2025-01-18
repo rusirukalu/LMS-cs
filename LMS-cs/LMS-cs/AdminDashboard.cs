@@ -135,5 +135,12 @@ namespace LMS_cs
                 conn.Close();
             }
         }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            LoginForm loginForm = new LoginForm();
+            loginForm.Show();
+            this.Close();
+        }
     }
 }
