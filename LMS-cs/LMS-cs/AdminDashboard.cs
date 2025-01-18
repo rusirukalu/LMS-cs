@@ -13,9 +13,11 @@ namespace LMS_cs
 {
     public partial class AdminDashboard : Form
     {
-        public AdminDashboard()
+        public AdminDashboard(int userId)
         {
             InitializeComponent();
+            adminId = userId;
+            conn = new SqlConnection("Server=localhost;Database=LibraryDB;Trusted_Connection=True;");
         }
 
         private void AdminDashboard_Load(object sender, EventArgs e)
