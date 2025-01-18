@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace LMS_cs
 {
@@ -15,6 +16,11 @@ namespace LMS_cs
         public MemberDashboard()
         {
             InitializeComponent();
+        }
+
+        private void MemberDashboard_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
