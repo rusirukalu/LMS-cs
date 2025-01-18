@@ -1,0 +1,6 @@
+C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS_cs.LoginForm.resources
+C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS-cs.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS-cs.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS-cs.AssemblyInfo.cs
+C:\Mac\Home\Documents\GitHub\LMS-cs\LMS-cs\LMS-cs\obj\Debug\net8.0-windows\LMS-cs.csproj.CoreCompileInputs.cache
